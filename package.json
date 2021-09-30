@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "react-advanced-api",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -28,7 +28,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "d3146478-9988-4d39-9ff5-cd076ff3220a"
+    "uuid": "de0a1578-2c55-40c1-bac4-765339a918c5"
   },
   "engines": {
     "node": ">=10.16.0 <=14.x.x",
