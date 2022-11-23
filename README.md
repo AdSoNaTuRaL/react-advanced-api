@@ -2,6 +2,8 @@
 
 This API was built for training the use of advanced techniques in React using Strapi
 
+> :warning: Not working at the moment due to changes of plans in Heroku
+
 ## Requirements
 
 This project uses [PostgreSQL](https://www.postgresql.org/), so, in order to make it working, install in your local machine or use Docker.
